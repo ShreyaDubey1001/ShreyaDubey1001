@@ -11,7 +11,7 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 
 
 ## HIGHLIGHTS  
-<table><tr><td valign="top" width="50%">
+<table style="display: none;"><tr><td valign="top" width="50%">
 
 - 💻 Coding Enthusiast  
   
