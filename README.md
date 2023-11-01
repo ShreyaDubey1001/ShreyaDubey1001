@@ -1,7 +1,8 @@
 ## HELLO THERE👋
 I'm Shreya Dubey, a B.tech undergraduate 👨‍💻 from 
 MCKV INSTITUTE OF ENGINEERING 🎓  
-  
+
+  <br/>
 ### ABOUT ME!  
 I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both frontend and backend development. With a keen eye for crafting user-friendly interfaces and a knack for optimizing the server-side, I'm on a mission to bring digital experiences to life. But here's the best part: I thrive on collaboration! I'm excited to work together on projects that challenge the status quo and push the boundaries of what technology can achieve. Let's connect, innovate, and code the future, one line at a time.  
   
