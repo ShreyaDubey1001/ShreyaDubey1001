@@ -1,22 +1,8 @@
-## Hello there👋
+## HELLO THERE👋
 I'm Shreya Dubey, a B.tech undergraduate 👨‍💻 from 
 MCKV INSTITUTE OF ENGINEERING 🎓  
   
-
-<a href="https://github.com/https://github.com/ShreyaDubey1001" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-dubey-a03b2a232/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/shreya_dubey_1001/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
+### ABOUT ME!  
 
 I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both frontend and backend development. With a keen eye for crafting user-friendly interfaces and a knack for optimizing the server-side, I'm on a mission to bring digital experiences to life. But here's the best part: I thrive on collaboration! I'm excited to work together on projects that challenge the status quo and push the boundaries of what technology can achieve. Let's connect, innovate, and code the future, one line at a time.  
   
@@ -24,7 +10,7 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 <br/>  
 
 
-## Rapidfire  
+## HIGHLIGHTS  
 <table><tr><td valign="top" width="50%">
 
 - 💻 Coding Enthusiast  
@@ -54,7 +40,7 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 <br/>  
 
 
-## Languages and Tools  
+## SKILLS 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -76,7 +62,7 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 <br/>  
 
 
-## Github Stats  
+## GITHUB STATS  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreyaDubey1001&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -89,6 +75,17 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 
 <br/>  
 
+## LET'S CONNECT
+<a href="https://github.com/https://github.com/ShreyaDubey1001" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-dubey-a03b2a232/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/shreya_dubey_1001/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
   
   
 
@@ -100,6 +97,3 @@ I'm a passionate coding aficionado pursuing my B.Tech in IT, proficient in both 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
