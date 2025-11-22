@@ -1,106 +1,87 @@
-# 🌸✨ KONNICHIWA, TRAVELER! ✨🌸  
-### Welcome to **Shreya Dubey’s Anime-Themed Dev Universe** 🌙💻
+# 👋 Hi, I'm **Shreya Dubey**
+### 🚀 Software Developer | AI & Full-Stack Enthusiast | Problem Solver
 
-<img align="center" src="https://i.pinimg.com/originals/0e/25/e9/0e25e99f1aaf04c4548932e8def54df1.gif" width="100%" />
+With **1.5+ years of experience** in the tech industry, I’m on a mission to continuously learn, build, and innovate.  
+I love exploring new technologies, understanding systems end-to-end, and contributing to impactful products.
 
----
-
-# 🌟 INTRODUCTION  
-With **1.5+ years of experience** in the tech realm, I’m on a never-ending anime-style journey to **master new tech stacks**, unlock hidden skills, and contribute to meaningful digital worlds.
-
-My quest includes:  
-🌸 Learning  
-🌸 Building  
-🌸 Improving  
-🌸 Collaborating  
-
-Let’s write code that feels like pure magic ✨💫
+My journey revolves around:  
+✨ Writing clean & scalable code  
+✨ Building intelligent systems  
+✨ Solving real-world problems  
+✨ Constantly upskilling across domains  
 
 ---
 
-# 🍙 ABOUT ME  
-I'm **Shreya Dubey**, a B.Tech IT undergraduate from MCKV Institute of Engineering.  
-A full-stack developer who blends:  
-🎀 *Frontend beauty*  
-⚔️ *Backend strength*  
-🔮 *AI sorcery*  
+## 🔥 **About Me**
+I am a **skilled full-stack & AI developer** with hands-on experience across backend, frontend, databases, and modern AI frameworks.  
+I enjoy architecting solutions, experimenting with new tech, and contributing to projects that push boundaries.
 
-I love crafting clean UIs, scalable systems, and exploring the mysteries of AI & ML.
-
-> *“A true developer levels up every single day.”*  
-
----
-
-# ✨ HIGHLIGHTS — My Power Stats  
-- 🧠 **Solved 1000+ coding problems**  
-- 🔥 **400+ days coding streak**  
-- 💻 Coding Enthusiast  
-- 🌐 Tech Explorer  
-- 🧪 Constant Innovator  
-- 🚀 Always Learning & Growing  
+I specialize in:  
+- Backend development & API design  
+- Frontend engineering & UI building  
+- Agentic AI, LLM workflows & automation  
+- Databases & data-driven systems  
+- Building robust, scalable software  
 
 ---
 
-# 🎌 SKILLS — My Ability Tree  
+## ⭐ **Professional Highlights**
+- 🧠 Solved **1000+ coding problems** across platforms  
+- 🔥 Maintained a **400+ day coding streak**  
+- 💼 1.5+ years of hands-on development experience  
+- 📚 Strong foundation in Computer Science & software engineering  
+- 🚀 Actively building projects in **AI, full-stack, and automation**  
+- ⚡ Quick learner, adaptive, and always experimenting with new tech  
 
-### 🌸 **Languages**  
-`Python` · `C` · `C++` · `Java` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
+---
 
-### 🏯 **Frameworks / Libraries**  
-`React.js` · `Angular` · `Node.js` · `Express.js` · `Redux`
+## 🛠️ **Tech Stack**
 
-### 🍡 **Databases**  
+### **💻 Programming Languages**
+`Python` · `C` · `C++` · `Java` · `JavaScript` · `TypeScript`
+
+### **🌐 Frontend**
+`React.js` · `Angular` · `HTML` · `CSS`  
+
+### **⚙️ Backend**
+`Node.js` · `Express.js`
+
+### **🗄️ Databases**
 `MongoDB` · `MySQL`
 
-### 🔮 **AI / ML Specialty Skills**  
-`LangChain` · `LangGraph` · `Agentic AI` · `Generative AI` · `Machine Learning` · `Deep Learning`
+### **🤖 AI / ML**
+`LangChain` · `LangGraph` · `Agentic AI` · `Generative AI`  
+`Machine Learning` · `Deep Learning`
+
+### **🔧 Tools & Others**
+`Git` · `REST APIs` · `Redux` · `Version Control`  
 
 ---
 
-<img src="https://i.pinimg.com/originals/ef/56/b3/ef56b366e12e5743cfc3a0868b559baf.gif" width="100%" />
-
----
-
-# 📊 GITHUB STATS — My Progress Arc  
+## 📊 **GitHub Stats**
 <table><tr><td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyaDubey1001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" style="width:100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shreyaDubey1001&show_icons=true&count_private=true&theme=transparent&hide_border=true" style="width:100%" />
 </td><td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaDubey1001&theme=tokyonight&layout=compact&hide_border=true" style="width:100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaDubey1001&layout=compact&theme=transparent&hide_border=true" style="width:100%" />
 </td></tr></table>
 
 ---
 
-# 💮 LET’S CONNECT — Join My Guild  
+## 🔗 **Let’s Connect**
 <div align="center">
 <a href="https://github.com/ShreyaDubey1001">
-<img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/shreya-dubey-a03b2a232/">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/shreya_dubey_1001/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
 
 ---
 
-# 🌸 BONUS ANIME BANNERS  
-
-**Cute Aesthetic**
-```
-(っ◔◡◔)っ ♥ Welcome to My Anime Dev Space ♥
-```
-
-**Naruto**
-```
-💨 Dattebayo! You’ve entered my coding ninja world! 💨
-```
-
-**Demon Slayer**
-```
-⚔️ Breathing Style: Code Breathing, First Form — Hello World ⚔️
-```
-
----
+## 🌟 **Quote I Live By**
+> _“Learn, build, improve — and repeat. Growth is a continuous process.”_
 
